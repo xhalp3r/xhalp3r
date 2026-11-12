@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm xhalp3r!🖐 Contributing in gamedev & SE
 
+#### 📊 Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xhalp3r&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhalp3r&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 <!--
 **xhalp3r/xhalp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
